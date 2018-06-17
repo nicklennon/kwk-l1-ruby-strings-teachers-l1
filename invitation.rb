@@ -9,7 +9,6 @@ puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets.strip
 
 # User inputs and store party_name
-# disagree with this but required for learn. 
 puts "What is the name of your party? Ex. the Best Halloween Party Ever"
 party_name = gets.strip
 
